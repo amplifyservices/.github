@@ -1,40 +1,55 @@
-# Amplify Solutions
+# Amplify Creations
 
-Welcome to **Amplify Solutions**! We specialize in providing professional **Discord bot services** tailored to your specific needs. Whether you’re looking for a custom bot, want to learn how to create your own, or need pre-built solutions, we offer a range of services to help you enhance your Discord server experience.
+Welcome to **Amplify Creations**! We specialize in providing a variety of professional services to enhance your **Roblox** and **Discord** experiences. From custom clothing to bot development, ERLC liveries, graphics, and much more, we offer top-tier solutions to meet your creative needs.
+
+---
 
 ## Our Services
 
+### **Roblox Clothing Design**
+We provide **custom Roblox clothing** tailored to your style and preferences. Whether you're looking for a unique outfit or a complete wardrobe, our team will create something special for you.
+
 ### **Discord Bot Commissions**
+Need a custom **Discord bot** for your server? We offer bot development services ranging from moderation bots to custom bots with unique features. Work with us to create a bot that perfectly fits your server's needs.
 
-We offer custom **Discord bot development services** for a variety of use cases, from moderation bots to entertainment bots. Work with us to bring your vision to life with a bot built specifically to suit your needs.
+### **Discord Bot Lessons (JavaScript)**
+Want to learn how to create your own **Discord bots using JavaScript**? Our **bot development lessons** cover everything from basic setup to advanced bot features. Whether you're just starting out or looking to improve your skills, we offer comprehensive guidance to help you succeed.
 
-### **Discord Bot Courses**
+### **ERLC Liveries**
+We offer **custom liveries** for **ERLC (Emergency Response: Liberty County)** in Roblox. Whether you're looking for police, fire, or other vehicle skins, we create detailed and high-quality designs to make your vehicles stand out.
 
-Learn how to create your own bots with our comprehensive **Discord bot development courses**. Whether you’re a beginner or looking to advance your skills, our step-by-step guides and video lessons will walk you through bot creation, deployment, and management.
+### **Graphics Design**
+Our **graphic design** services include creating logos, banners, and promotional materials to help elevate your brand. Whether for Discord, Roblox, or other platforms, we provide high-quality designs that match your vision.
 
-### **1-on-1 Lessons**
+### **Custom Photography**
+We specialize in **custom photography** for Roblox and other platforms, capturing your moments and creations with a professional touch.
 
-Receive **personalized training** in our live **1-on-1 lessons**. In these sessions, we’ll cover everything from bot setup to advanced techniques, answering all your questions and providing guidance to help you achieve your development goals.
+### **Custom Embeds**
+Our team can create **custom embeds** for your Discord server, enhancing the visual appeal of your messages and announcements.
 
-### **Discord Bot Packages**
+---
 
-We offer **pre-built bot packages** that are ready to be deployed in your server. These bots are customizable and come with various useful features, so you can get started quickly without the need for extensive coding.
+## Why Choose Amplify Creations?
 
-## Why Choose Amplify Solutions?
+- **Expertise**: We bring years of experience in Discord bot development, graphic design, and Roblox services.
+- **Customization**: Tailored solutions to fit your specific needs and vision.
+- **Ongoing Support**: We provide continuous support for all our services, ensuring you're always satisfied with the results.
 
-- **Expertise**: Years of experience in Discord bot development.
-- **Customization**: Tailored solutions to meet your specific requirements.
-- **Ongoing Support**: We provide continuous support and assistance for all our services.
+---
 
 ## Contact Us
 
-- **Email**: [contact.officialsteam@gmail.com](mailto:contact.officialsteam@gmail.com)
-- **Discord Server**: [Join our Discord Community](https://discord.gg/FdwYZtxR3f)
+- **Email**: [contact@amplifycreations.com](mailto:contact@officialsteam.xyz)
+- **Discord Server**: [Join our Discord Community](https://discord.gg/Mv9JK9XvQP)
+
+---
 
 ## Terms of Service
 
-By using our services, you agree to our [Terms of Service](https://docs.google.com/document/d/1cBi87K20FPJ5M4sYaY62bx1OOkJzJ4jqAsRXpoIGR6A/edit?usp=sharing). Please review them carefully.
+By using our services, you agree to our [Terms of Service](https://docs.google.com/document/d/1svbpf8vgJsyngmnrMve7oWTNsul-kG4AjMMPvBFJpjk/edit?usp=sharing). Please review them carefully.
 
-## Start Building Your Discord Bot Today!
+---
 
-Let us help you bring your ideas to life with powerful bots and expert guidance. Whether you’re looking to get a bot made for your server or want to learn the process yourself, Amplify Solutions is here to help.
+## Start Creating with Amplify Creations Today!
+
+Let us help bring your creative ideas to life with high-quality services and expert guidance. Whether you’re looking for custom bots, graphics, or clothing, **Amplify Creations** is here to help you succeed.
